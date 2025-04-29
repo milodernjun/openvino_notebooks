@@ -1,4 +1,4 @@
-import sys
+.ci/check_notebooks.py import sys
 import json
 from table_of_content import find_tc_in_cell
 from patch_notebooks import DEVICE_WIDGET, DEVICE_WIDGET_NEW
